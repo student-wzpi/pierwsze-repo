@@ -1,1 +1,2 @@
 # pierwsze-repo
+Pierwszy plik
